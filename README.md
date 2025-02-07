@@ -18,12 +18,12 @@ How to use:
 6. Then you can view ID info & verification results
 
 File structure:
-uploadImage.py --> handles the image selection
-IDinfo --> extracts text data from ID images
-verifier.py --> handles face verification
-processPicture.py --> Face alignment functions
-main.py --> responsible for all work flow
-gui.py --> just GUI
+1. uploadImage.py --> handles the image selection
+2. IDinfo --> extracts text data from ID images
+3. verifier.py --> handles face verification
+4. processPicture.py --> Face alignment functions
+5. main.py --> responsible for all work flow
+6. gui.py --> just GUI
 
 Notes:
 1. Many factors comes into play in case of determining the final result (angle of image, sharpness of image, brightnes, background, etc.)
