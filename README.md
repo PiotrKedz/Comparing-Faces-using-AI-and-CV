@@ -33,6 +33,7 @@ Notes:
 1. Multiple factors influence the final verification result (e.g., image angle, sharpness, brightness, background, etc.).
 2. DeepFace supports multiple face detection backends.
 3. Pytesseract supports multiple languages for text extraction.
+   
 Versions Used:
 
 Python → 3.8
