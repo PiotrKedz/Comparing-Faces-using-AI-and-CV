@@ -40,3 +40,5 @@ CustomTkinter → 5.2.2
 DeepFace → 0.0.93
 OpenCV-Python → 4.10.0.84
 Pytesseract → 0.3.13
+![gui](https://github.com/user-attachments/assets/841fa8fc-a4b6-45a7-b639-424c121e4503)
+![result](https://github.com/user-attachments/assets/0d84d156-ad7e-484d-b2ad-75aeb50e7519)
