@@ -3,11 +3,11 @@
 This is a photo verification system using DeepFace and CustomTkinter, designed for ID and selfie verification. It allows users to choose photos, extract text from ID images, and compare selfies using multiple DeepFace models.
 
 Features:
-GUI Interface with CustomTkinter, 
-Face Alignment & Detection using DeepFace, 
-Multi-Model Selection (VGG-Face, Facenet, Facenet512, etc.), 
-Real-time Results Popup for verification outcomes, 
-Error Handling for missing inputs and failed detections, 
+1. GUI Interface with CustomTkinter, 
+2. Face Alignment & Detection using DeepFace, 
+3. Multi-Model Selection (VGG-Face, Facenet, Facenet512, etc.), 
+4. Real-time Results Popup for verification outcomes, 
+5. Error Handling for missing inputs and failed detections, 
 
 How to use:
 1. Download all python files and store them in one project for simplicity
